@@ -1,0 +1,38 @@
+C:\Users\Armando\source\repos\Armando01\Armando01\bin\Debug\netcoreapp3.1\Armando01.exe
+C:\Users\Armando\source\repos\Armando01\Armando01\bin\Debug\netcoreapp3.1\Armando01.deps.json
+C:\Users\Armando\source\repos\Armando01\Armando01\bin\Debug\netcoreapp3.1\Armando01.runtimeconfig.json
+C:\Users\Armando\source\repos\Armando01\Armando01\bin\Debug\netcoreapp3.1\Armando01.runtimeconfig.dev.json
+C:\Users\Armando\source\repos\Armando01\Armando01\bin\Debug\netcoreapp3.1\Armando01.dll
+C:\Users\Armando\source\repos\Armando01\Armando01\bin\Debug\netcoreapp3.1\Armando01.pdb
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.csprojAssemblyReference.cache
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.csproj.GenerateResource.cache
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.AssemblyInfoInputs.cache
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.AssemblyInfo.cs
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.dll
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.pdb
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.genruntimeconfig.cache
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmMenu.resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.FormLogin.resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.Properties.Resources.resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmListaVisualDeusuario.resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador.resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador - Copia (2).resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador - Copia - Copia.resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador - Copia.resources
+C:\Users\Armando\source\repos\Armando01\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmUsuario.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.csprojAssemblyReference.cache
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.Properties.Resources.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.FormLogin.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador - Copia (2).resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador - Copia - Copia.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador - Copia.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmAdministrador.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmListaVisualDeusuario.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.VISTA.FrmMenu.resources
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.csproj.GenerateResource.cache
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.AssemblyInfoInputs.cache
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.AssemblyInfo.cs
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.csproj.CoreCompileInputs.cache
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.dll
+C:\Users\Armando\Desktop\LaboratorioProgamacionUno\Armando01\obj\Debug\netcoreapp3.1\Armando01.pdb

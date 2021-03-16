@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="VISTA\FrmAdministrador - Copia %282%29.Designer.cs">
+      <DependentUpon>FrmAdministrador.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="VISTA\FrmAdministrador - Copia - Copia.Designer.cs">
+      <DependentUpon>FrmAdministrador - Copia.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="VISTA\FrmAdministrador - Copia.Designer.cs">
+      <DependentUpon>FrmAdministrador.Designer.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VISTA\FrmAdministrador - Copia %282%29.resx">
+      <DependentUpon>FrmAdministrador.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VISTA\FrmAdministrador - Copia - Copia.resx">
+      <DependentUpon>FrmAdministrador - Copia.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VISTA\FrmAdministrador - Copia.resx">
+      <DependentUpon>FrmAdministrador.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
