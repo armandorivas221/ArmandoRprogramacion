@@ -1,0 +1,10 @@
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\bin\Debug\ejerc g1.exe.config
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\bin\Debug\ejerc g1.exe
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\bin\Debug\ejerc g1.pdb
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\obj\Debug\ejerc g1.csprojAssemblyReference.cache
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\obj\Debug\ejerc_g1.Form1.resources
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\obj\Debug\ejerc_g1.Properties.Resources.resources
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\obj\Debug\ejerc g1.csproj.GenerateResource.cache
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\obj\Debug\ejerc g1.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\obj\Debug\ejerc g1.exe
+C:\Users\Armando\source\repos\ejerc g1\ejerc g1\obj\Debug\ejerc g1.pdb
